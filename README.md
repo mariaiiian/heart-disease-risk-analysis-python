@@ -17,9 +17,8 @@ This project predicts the risk of heart disease using machine learning models. I
 - Matplotlib, Seaborn
 
 ## 📁 Files Included
-- `heart_disease_analysis.ipynb` – Jupyter notebook with full code
-- `report.pdf` – Final project write-up (this file)
-- `README.md` – Project overview
+- `Heart_Disease_Risk_Analysis_Python.ipynb` – Jupyter notebook with full code
+- `Heart_Disease_Risk_Analysis_Python.pdf` – Final project write-up
 
 ## 🧠 Model Results
 - **Logistic Regression**: 99.1% accuracy | AUC: 0.999
