@@ -31,3 +31,4 @@ This project predicts the risk of heart disease using machine learning models. I
 
 ## ✍️ Author
 Mariam Gevorgyan
+
